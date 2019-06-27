@@ -1,7 +1,4 @@
 
-# 项目简介
-本项目是我个人网站[Alpaca Bi的个人博客](https://biguokang.cn)右下角小人的源代码，基于live2d.js开发，我单独把她抽离了出来，你们可以嵌入到你们自己的网站里，演示demo地址如下：http://live2d.biguokang.cn
-
 # 安装与使用方法
 
 ### 关于聊天功能和图片识别功能
